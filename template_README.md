@@ -5,8 +5,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![R](![Static Badge](https://img.shields.io/badge/R-green)
-![Tableau](![Static Badge](https://img.shields.io/badge/Tableau-blue)
+![R](https://img.shields.io/badge/R-green)
+![Tableau](https://img.shields.io/badge/Tableau-blue)
 
 ## Projects
 
